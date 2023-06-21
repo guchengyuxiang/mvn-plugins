@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/projects/MENFORCER-434" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/projects/always-fail" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/projects/always-fail-warn" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/projects/always-pass" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/projects/ban-dependency-management-scope-fail" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/projects/ban-distribution-management" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/projects/ban-distribution-management-multi-module-build" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/projects/ban-distribution-management-multi-module-except-site" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/projects/ban-duplicate-dependencies-versions" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/projects/ban-dynamic-versions" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/projects/ban-dynamic-versions-scope-all-scopes" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/projects/ban-pom-dependency-version" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/projects/ban-pom-dependency-version-utf8-with-bom" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/projects/ban-transitive-dependencies-fail" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/projects/banned-dependencies-fail" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/projects/banned-dependencies-versionrange-fail" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/projects/banned-plugins-fails" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/projects/cli-always-fail" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/projects/cli-always-fail-deprecated" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/projects/cli-always-pass" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/projects/cli-always-pass-deprecated" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/projects/cli-skip-rules" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/projects/dependency-convergence_excludedScopes" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/projects/dependency-convergence_transitive_provided" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/projects/display-info" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/projects/evaluate-beanshell" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/projects/external-rules-always-fail" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/projects/external-rules-always-pass" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/projects/multimodule-ban-transitive-dependencies_failure" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/projects/multimodule-require-release-dependencies-exclude_failure" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/projects/multimodule-require-release-dependencies-snapshot-parent_failure" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/projects/non-exeisting-optional-dependency" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/projects/require-dependency-scope" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/projects/require-environment-variable" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/projects/require-file-checksum" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/projects/require-files-dont-exist" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/projects/require-files-exist" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/projects/require-files-size" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/projects/require-java-vendor-multi-module" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/projects/require-java-version" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/projects/require-maven-version" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/projects/require-no-repositories" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/projects/require-no-repositories-allow-plugin-repo" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/projects/require-no-repositories-allow-repo" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/projects/require-no-repositories_failure" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/projects/require-no-repositories_failure_allowed-plugin-repo" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/projects/require-no-repositories_failure_plugin-repositories" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/projects/require-no-repositories_failure_repositories" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/projects/require-no-repositories_mm" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/projects/require-no-repositories_mm_ci" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/projects/require-os" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/projects/require-plugin-versions-ci" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/projects/require-plugin-versions_failure" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/projects/require-profile-id-exist_defined_in_parent" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/projects/require-profile-ids-exist_failure" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/projects/require-property" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/projects/require-snapshot-version_failure_parent-ci-friendly" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/projects/require-textfile-checksum" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/projects/require-upper-bound-dependencies-managed_failure" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/projects/require-upper-bound-dependencies-scope-change" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/projects/require-upper-bound-dependencies-unique_failure" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/projects/require-upper-bound-deps_failure" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/projects/require-upper-bound-deps_failure_show_scopes" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/projects/require-upper-bound-deps_ignored" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/projects/require-upper-bound-deps_includes" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/projects/resolve_collect_dependencies" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
